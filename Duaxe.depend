@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1525601549 source:e:\project\duaxe\main.cpp
+	<iostream>
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	<windows.h>
+	"Game.h"
+	"Menu.h"
+
+1525601549 e:\project\duaxe\include\game.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<windows.h>
+	"threat.h"
+	"Player.h"
+	<list>
+
+1525601549 e:\project\duaxe\include\player.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<windows.h>
+	<string>
+
+1525601549 source:e:\project\duaxe\src\game.cpp
+	"Game.h"
+
+1525601549 source:e:\project\duaxe\src\player.cpp
+	"Player.h"
+
+1525601549 e:\project\duaxe\include\threat.h
+	<iostream>
+	<SFML/Graphics.hpp>
+	<windows.h>
+	<cstdlib>
+	<time.h>
+
+1525601549 source:e:\project\duaxe\src\threat.cpp
+	"threat.h"
+
+1525601549 e:\project\duaxe\include\menu.h
+	<SFML/Graphics.hpp>
+	<iostream>
+
+1525601549 source:e:\project\duaxe\src\menu.cpp
+	"Menu.h"
+
